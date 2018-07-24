@@ -6,6 +6,18 @@ https://drive.google.com/drive/folders/1hMaIh2AxjLQgoO0WbK7hOaUTxb5WDvAD
 Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (1/5)
 https://www.youtube.com/watch?v=zop5-Ncj4Pg
 
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (2/5)
+https://www.youtube.com/watch?v=wyh6sSYcBAc
+
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (3/5)
+https://www.youtube.com/watch?v=qzZciwr5iOM
+
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (4/5)
+https://www.youtube.com/watch?v=OhGaRca6uW0
+
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (5/5)
+https://www.youtube.com/watch?v=9sdK2KaKfuU
+
 Spring для Apache Hadoop, чтобы использовать преимущества как Hadoop, так и Spring.
 
 Проект Spring для Apache Hadoop предоставляет расширения Spring, Spring Batch и Spring Integration
