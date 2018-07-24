@@ -1,3 +1,18 @@
+Архитектура [spring-hadoop for Enterprise Architect] Исходный код и UML-диаграмма классов
+https://drive.google.com/drive/folders/1hMaIh2AxjLQgoO0WbK7hOaUTxb5WDvAD
+
+Spring для Apache Hadoop, чтобы использовать преимущества как Hadoop, так и Spring.
+
+Проект Spring для Apache Hadoop предоставляет расширения Spring, Spring Batch и Spring Integration
+для создания управляемых и надежных решений для pipeline вокруг Hadoop.
+
+Spring для Apache Hadoop расширяет Spring Batch, предоставляя поддержку для чтения и записи в HDFS, 
+запуска различных заданий Hadoop (Java MapReduce, Streaming, Hive, Spark, Pig) и использования HBase.
+
+Spring для Apache Hadoop также применяет привычную модель программирования Spring к заданиям Java MapReduce, 
+предоставляя поддержку для ввода зависимостей простых заданий, а также модель программирования MapReduce на основе POJO, 
+которая отделяет классы MapReduce от конкретных данных Hadoop, таких как базовые классы и типы данных.
+
 The [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) project provides extensions to [Spring](http://projects.spring.io/spring-framework/), [Spring Batch](http://projects.spring.io/spring-batch/), and [Spring Integration](http://projects.spring.io/spring-integration/) to build manageable and robust pipeline solutions around Hadoop.
 
 Spring for Apache Hadoop extends Spring Batch by providing support for reading from and writing to HDFS, running various types of Hadoop jobs (Java MapReduce, Streaming, [Hive](http://hive.apache.org),  [Pig](http://pig.apache.org)), [HBase](http://hbase.apache.org) and [Cascading](http://cascading.org) interactions. An important goal is to provide excellent support for non-Java based developers to be productive using Spring Hadoop and not have to write any Java code to use the core feature set.
