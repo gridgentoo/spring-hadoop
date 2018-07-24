@@ -1,6 +1,11 @@
 Архитектура [spring-hadoop for Enterprise Architect] Исходный код и UML-диаграмма классов
 https://drive.google.com/drive/folders/1hMaIh2AxjLQgoO0WbK7hOaUTxb5WDvAD
 
+![Image alt](https://i.ytimg.com/vi/zop5-Ncj4Pg/maxresdefault.jpg)
+
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (1/5)
+https://www.youtube.com/watch?v=zop5-Ncj4Pg
+
 Spring для Apache Hadoop, чтобы использовать преимущества как Hadoop, так и Spring.
 
 Проект Spring для Apache Hadoop предоставляет расширения Spring, Spring Batch и Spring Integration
