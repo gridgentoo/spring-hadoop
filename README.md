@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=pCHQZwvgxNM
 
 ![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
 
+Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal)
+
 ![Image alt](https://i.ytimg.com/vi/zop5-Ncj4Pg/maxresdefault.jpg)
 
 Develop powerful Big Data Applications easily with Spring XD with Mark Pollack (Pivotal) (1/5)
